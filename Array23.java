@@ -7,8 +7,8 @@ class Array23
         
       Scanner sc =new Scanner(System.in);
       System.out.println("enter the size of the array ");
-      int N=sc.ne
-      int array[] =new int[]
+      int N=sc.nextInt();
+      int array[] =new int[N];
         
     }
 }
